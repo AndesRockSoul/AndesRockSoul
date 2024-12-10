@@ -1,6 +1,5 @@
 # Claudia Altamirano
 
-![Banner](https://AndesRockSoul.github.io/AndesRockSoul/banner.jpg)
 
 ### I'm Claudia, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀
 
