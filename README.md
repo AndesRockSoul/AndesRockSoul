@@ -4,7 +4,9 @@
 
 ### I'm Claudia, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀
 
-- 🔭 I’m currently working on [Django Projects](https://github.com/AndesRockSoul)
+- 🔭 I’m currently working on [Django Projects]
+  (https://github.com/AndesRockSoul/proyecto_vehiculos_django)
+  (https://github.com/AndesRockSoul/proyecto_laboratorio_django)
 - 🌱 I’m currently learning Python and Java
 - ❓ Ask me about anything related to climbing and related issues
 - ⚡ Fun fact: I can read with eyes closed
