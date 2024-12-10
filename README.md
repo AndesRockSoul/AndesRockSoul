@@ -1,12 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <center>
+
+
         <h1>Claudia Altamirano</h1>
         <img src="https://AndesRockSoul.github.io/test/banner.jpg" width="100%" />
         <h3>I'm Claudia, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</h3>
@@ -17,7 +10,7 @@
             <li>❓ Ask me about anything related to climbing and related issues</li>
             <li>⚡ Fun fact: I can read with eyes closed</li>
         </ul>
-    </center>
+
 
     <br/>
 
