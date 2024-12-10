@@ -1,4 +1,4 @@
-![Fondo](fondo.jpg)
+![Fondo](fondue.jpg)
 # Claudia Altamirano
 
 
